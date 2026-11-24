@@ -1,4 +1,4 @@
-program KalimatKeSimbol;
+program Kodeprogram2;
 uses crt, sysutils;
 
 var
